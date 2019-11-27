@@ -1,2 +1,2 @@
 # Minesweeper
-Minespweeper maked by Window API
+Minespweeper made by Window API
